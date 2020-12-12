@@ -24,7 +24,7 @@
 <img src = "https://im0-tub-ru.yandex.net/i?id=8eef8f4b970173dce0fe414062c0cddb&n=13">
 
 ### Примерный вид сайта
-<img scr = "354.png">
+<img src = "354.png">
 
 
 
