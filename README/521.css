@@ -1,0 +1,45 @@
+/*блок*/
+.bun{
+ 
+    background-color: #388f06;
+    border: none;
+    color: rgb(15, 4, 4);
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px; 
+    border-radius: 12px 12px 12px 12px;
+    float: right; 
+}
+/*Фотка*/
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+/*Блоки*/
+.qw{
+
+background-color: #388f06;
+color: rgb(15, 4, 4);
+padding: 1px 1px 1px 1px;
+text-align: center;
+
+font-size: 1px; 
+border-radius: 20px 20px 20px 20px;
+float: left;
+}
+.wq{
+    background-color: #388f06;
+    color: rgb(15, 4, 4);
+    padding: 1px 1px 1px 1px;
+    text-align: center;
+    
+    font-size: 10px; 
+    border-radius: 20px 20px 20px 20px;
+    float: right;
+
+}
+/*цвет главная*/
+.aa{
+    color:rgb(209, 207, 207);
+}
